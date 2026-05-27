@@ -37,7 +37,7 @@ Sales_Data_Project/
 ├── requirements.txt
 └── screenshots/
 
-# 📖 Project Description
+## 📖 Project Description
 
 The Sales Data Analysis project is a beginner-friendly data analytics project developed using Python and Pandas.
 
