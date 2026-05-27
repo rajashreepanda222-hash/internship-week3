@@ -36,3 +36,29 @@ Sales_Data_Project/
 ├── analysis_report.md
 ├── requirements.txt
 └── screenshots/
+
+📖 Project Description
+
+The Sales Data Analysis project is a beginner-friendly data analytics project developed using Python and Pandas.
+
+This project reads sales data from a CSV file, processes the dataset, handles missing values, and performs sales analysis to generate meaningful business insights.
+
+The system calculates important metrics such as:
+Total Revenue
+Average Sales
+Highest and Lowest Sales
+Best-Selling Product
+
+The project demonstrates how Python can be used for:
+
+Data cleaning
+Data processing
+Business reporting
+Basic data analytics
+
+This project is useful for students and beginners who want practical experience with:
+
+Python programming
+Pandas library
+CSV file handling
+Real-world data analysis projects
